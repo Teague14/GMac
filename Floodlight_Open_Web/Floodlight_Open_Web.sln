@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floodlight_Open_Web", "Floodlight_Open_Web\Floodlight_Open_Web.csproj", "{BA28C2EA-4251-4F79-9DA5-55EFD58FB49D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floodlight_Open_Web_Tests", "Floodlight_Open_Web_Tests\Floodlight_Open_Web_Tests.csproj", "{A1FA6671-9F3A-43E2-B6F5-88072437580E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA28C2EA-4251-4F79-9DA5-55EFD58FB49D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA28C2EA-4251-4F79-9DA5-55EFD58FB49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA28C2EA-4251-4F79-9DA5-55EFD58FB49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA28C2EA-4251-4F79-9DA5-55EFD58FB49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1FA6671-9F3A-43E2-B6F5-88072437580E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1FA6671-9F3A-43E2-B6F5-88072437580E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1FA6671-9F3A-43E2-B6F5-88072437580E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1FA6671-9F3A-43E2-B6F5-88072437580E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
