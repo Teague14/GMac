@@ -1,0 +1,12 @@
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/Floodlight_Open_Web.deps.json
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/Floodlight_Open_Web.dll
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/bin/Debug/netcoreapp3.1/Floodlight_Open_Web.pdb
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/obj/Debug/netcoreapp3.1/Floodlight_Open_Web.AssemblyInfoInputs.cache
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/obj/Debug/netcoreapp3.1/Floodlight_Open_Web.AssemblyInfo.cs
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/obj/Debug/netcoreapp3.1/Floodlight_Open_Web.dll
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/obj/Debug/netcoreapp3.1/Floodlight_Open_Web.pdb
+/Users/allanteague/Documents/Projects/GarysStuff/Floodlight_Open_Web/Floodlight_Open_Web/obj/Debug/netcoreapp3.1/Floodlight_Open_Web.csprojAssemblyReference.cache
